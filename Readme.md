@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Дмитрий Лагутин](https://up.htmlacademy.ru/javascript/29/user/2256781).
-* Наставник: Никита Сигов.
+* Наставник: [Никита Сигов](https://htmlacademy.ru/profile/crazer).
 
 
 ---
